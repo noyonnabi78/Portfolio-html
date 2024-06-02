@@ -16,5 +16,11 @@
      - Code Editor : VS Code.
      - Browser : Google Chorm
      - Version Control : Git and GitHub. 
+     - VS live server extension.
+     - Prettier code format. 
 
-6. Basic Stracture :
+6. Basic Structure of HTML : 
+     - head, body.
+     - tags, type of tags, styling. 
+     - attribute, element, content. 
+     - debugging.
