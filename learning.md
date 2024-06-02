@@ -23,4 +23,15 @@
      - head, body.
      - tags, type of tags, styling. 
      - attribute, element, content. 
-     - debugging.
+     - debugging. (Use HTML validator from web)
+     - comments
+7.  Heading, Paragraph, Line breaks, Horizontal rule.
+8. Semantic HTML vs non Semantic HTML.
+   - Semantic tags : header, footer, main, form 
+   - Non Semantic tags : div, span
+9. Tex formating tags
+10. List
+11. Link
+12. Table
+13. Form
+14. Deploy
