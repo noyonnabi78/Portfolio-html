@@ -29,9 +29,13 @@
 8. Semantic HTML vs non Semantic HTML.
    - Semantic tags : header, footer, main, form 
    - Non Semantic tags : div, span
-9. Tex formating tags
+9. Tex formating tags : strong, em (for italic), mark (for highlighting), del (for strike through), sup, sub, 
 10. List
-11. Link
-12. Table
-13. Form
-14. Deploy
+   - ordered list, unordered list, defination, nested. 
+11. Link and navigation
+    - absolute link vs relative link.
+    - a tag, attributte : href, target, title. 
+12. images
+13. Basic Table
+14. Basic Form
+15. Deploy
