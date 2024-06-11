@@ -1,4 +1,4 @@
-# HTML Learnings.
+# Basic HTML Learnings.
 1. How website works?
 
 - Client-Server model.
@@ -39,3 +39,14 @@
 13. Basic Table
 14. Basic Form
 15. Deploy
+
+# Intermediate HTML
+- meta tags and SEO
+- adding font awesome icons and google font. 
+- advance table.
+- advance form.
+- form data send to your email. 
+- multimedia
+- html 5 elements.
+
+
